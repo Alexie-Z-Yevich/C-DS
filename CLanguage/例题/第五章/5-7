@@ -1,0 +1,8 @@
+定义全局变量：
+变量定义卸载函数体外即可。
+
+例如：
+# include <stdio.h>
+
+int x = 1;
+int main() {}
