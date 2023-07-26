@@ -8,3 +8,4 @@ int main() {
     scanf("%c", &n);
     printf("%c\n", n - 'A' + 'a');
 }
+
